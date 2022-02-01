@@ -1,0 +1,3 @@
+[submodule "library-readthedocs"]
+	path = library-readthedocs
+	url = https://github.com/david-mora-opensky/library-readthedocs.git
